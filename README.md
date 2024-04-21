@@ -13,6 +13,6 @@ I believe that the pursuit of knowledge is a lifelong journey and I am eager to 
 - 🤝 I’m open to collaborate on interesting projects
 - 📫 You can contact me at: annegromovich@gmail.com
 
-###Certificates
+### Certificates
 
 
