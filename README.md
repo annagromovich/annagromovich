@@ -17,5 +17,16 @@ I believe that the pursuit of knowledge is a lifelong journey and I am eager to 
 [<img alt="alt_text" width="120px" src="certificate badges/data_scientist_professional_badge.png">](https://www.datacamp.com/certificate/DS0024808730144)
 [<img alt="alt_text" width="120px" src="certificate badges/sql_associate_badge.png">](https://www.datacamp.com/certificate/SQA0019715855623)
 
-
-
+### Skills
+[<img alt="alt_text" width="40px" src="skills icons/Python-logo-notext.svg.png">](https://www.python.org/)
+[<img alt="alt_text" width="40px" src="skills icons/numpy-logo-479C24EC79-seeklogo.com.png">](https://numpy.org/)
+[<img alt="alt_text" width="40px" src="skills icons/pandas.png">](https://pandas.pydata.org/)
+[<img alt="alt_text" width="40px" src="skills icons/2560px-Scikit_learn_logo_small.svg.png">](https://scikit-learn.org/stable/)
+[<img alt="alt_text" width="40px" src="skills icons/icons8-tensorflow-480.png">](https://www.tensorflow.org/)
+[<img alt="alt_text" width="40px" src="skills icons/statsmodels-прозр-600-350.png">](https://www.statsmodels.org/stable/index.html)
+[<img alt="alt_text" width="40px" src="skills icons/matplotlib.png">](https://matplotlib.org/)
+[<img alt="alt_text" width="40px" src="skills icons/seaborn.png">](https://seaborn.pydata.org/)
+[<img alt="alt_text" width="40px" src="skills icons/plotly.png">](https://plotly.com/)
+[<img alt="alt_text" width="40px" src="skills icons/logo-tableau-cirkel.png">](https://www.tableau.com/)
+[<img alt="alt_text" width="40px" src="skills icons/Postgresql_elephant.svg.png">](https://www.postgresql.org/)
+[<img alt="alt_text" width="40px" src="skills icons/git.png">](https://git-scm.com/)
