@@ -14,8 +14,8 @@ I believe that the pursuit of knowledge is a lifelong journey and I am eager to 
 - 📫 You can contact me at: annegromovich@gmail.com
 
 ### Certificates
-[<img alt="alt_text" width="120px" src="data_scientist_professional_badge.png">](https://www.datacamp.com/certificate/DS0024808730144)
-[<img alt="alt_text" width="120px" src="sql_associate_badge.png">](https://www.datacamp.com/certificate/SQA0019715855623)
+[<img alt="alt_text" width="120px" src="certificate badges/data_scientist_professional_badge.png">](https://www.datacamp.com/certificate/DS0024808730144)
+[<img alt="alt_text" width="120px" src="certificate badges/sql_associate_badge.png">](https://www.datacamp.com/certificate/SQA0019715855623)
 
 
 
