@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Anna.
 
-<!--
-**annagromovich/annagromovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Data Scientist proficient in Python and SQL, with hands-on experience in developing interactive dashboards using Dash and Tableau. Skilled in conducting thorough research and analysis, leveraging machine learning techniques coupled with a goal-oriented mindset.
 
-Here are some ideas to get you started:
+I am passionate about solving data mysteries. ✨ With a robust background in research, I have honed my skills in handling diverse and extensive datasets, employing advanced statistical methods and machine learning concepts to extract meaningful insights and present them on the interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe that the pursuit of knowledge is a lifelong journey and I am eager to embrace every opportunity to grow and innovate.🚀
+
+- 💼 Check out my Portfolio [here](https://annagromovich.github.io/)
+- 🔭 I’m currently working on a cool new time-series analysis
+- 🌱 I’m currently learning PySpark
+- 🤝 I’m open to collaborate on interesting projects
+- 📫 You can contact me at: annegromovich@gmail.com
+
+###Certificates
+
+
