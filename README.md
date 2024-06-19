@@ -30,3 +30,4 @@ I believe that the pursuit of knowledge is a lifelong journey and I am eager to 
 [<img alt="alt_text" width="40px" src="skills icons/logo-tableau-cirkel.png">](https://www.tableau.com/)
 [<img alt="alt_text" width="40px" src="skills icons/Postgresql_elephant.svg.png">](https://www.postgresql.org/)
 [<img alt="alt_text" width="40px" src="skills icons/git.png">](https://git-scm.com/)
+[<img alt="alt_text" width="40px" src="skills icons/1200px-PyTorch_logo_icon.svg.png">](https://pytorch.org/)
