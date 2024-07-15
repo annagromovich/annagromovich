@@ -8,6 +8,7 @@ I am passionate about solving data mysteries. ✨ With a robust background in re
 I believe that the pursuit of knowledge is a lifelong journey and I am eager to embrace every opportunity to grow and innovate.🚀
 
 - 💼 Check out my Portfolio [here](https://annagromovich.github.io/)
+- 🏅 Twice a winner of DataCamp competitions
 - 🔭 I’m currently working on a cool new time-series analysis
 - 🌱 I’m currently learning PySpark
 - 🤝 I’m open to collaborate on interesting projects
@@ -32,3 +33,4 @@ I believe that the pursuit of knowledge is a lifelong journey and I am eager to 
 [<img alt="alt_text" width="40px" src="skills icons/Postgresql_elephant.svg.png">](https://www.postgresql.org/)
 [<img alt="alt_text" width="40px" src="skills icons/git.png">](https://git-scm.com/)
 [<img alt="alt_text" width="40px" src="skills icons/1200px-PyTorch_logo_icon.svg.png">](https://pytorch.org/)
+[<img alt="alt_text" width="80px" src="skills icons/pyspark.png">](https://spark.apache.org/docs/latest/api/python/index.html)
